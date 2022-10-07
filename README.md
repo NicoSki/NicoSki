@@ -1,5 +1,5 @@
 # 🐉 console.log("Hello World...");
-My name is Nicolas and i´m a Full Stack Developer who is a fanatic of programmation.<br> I am currently studying a degree in systems to improme my knowladge and i´ve been working in differents kind of proyects and most of them are related with e-commerce apps
+My name is Nicolas and i´m a Full Stack Developer who is a fanatic of programmation.<br> I am currently studying a degree in systems to improme my knowladge and i´ve been working on differents kind of proyects and most of them are related with e-commerce apps
 
 
 ## 🌐 Socials:
