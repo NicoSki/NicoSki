@@ -16,4 +16,3 @@ My name is Nicolas and i´m a Full Stack Developer who is a fanatic of programma
 ![](https://github-profile-trophy.vercel.app/?username=NicoSki&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NicoSki&icon=2&color=12)](https://visitcount.itsvg.in)
